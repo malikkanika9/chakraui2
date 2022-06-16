@@ -4,7 +4,7 @@ function App() {
  
   return (
 <div>
-  <Chakra1/>
+  {/* <Chakra1/> */}
   <Projecttwo/>
 </div>
   );
